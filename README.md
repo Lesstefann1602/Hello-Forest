@@ -14,4 +14,4 @@ En este proyecto utilizamos el editor de código *Visual Studio Code* y los leng
 </o1>
 
 ### Vista Previa 
-![Uploading Captura de Pantalla 2023-11-28 a la(s) 21.13.56.png…]()
+![Captura de Pantalla 2023-11-28 a la(s) 21 13 56](https://github.com/Lesstefann1602/Hello-Forest/assets/151890661/a3f044e3-6a93-4025-85d4-2639b87db310)
